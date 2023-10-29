@@ -26,4 +26,4 @@ And if you are interested in my life, check my [Personal Blog](https://farthing.
 2023.08 Poster Presentation, at the 20th Annual Meeting of the Asia Oceania Geosciences Society (AOGS2023), Singapore.
 
 Title: "GTLS: A GPU Algorithm for Speeding up Periodic Transit Detection".
-Download the poster [here]({{ site.url }}/download/GTLSPoster.pdf). Formally paper is in preparation.
+Download the poster [here]({{ site.url }}/download/GTLSPoster.pdf). The paper is in preparation.
