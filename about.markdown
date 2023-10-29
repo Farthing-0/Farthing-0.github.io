@@ -4,15 +4,26 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi, I'm Quanquan Hu (Chinese: 胡泉泉), a 2nd year graduate student from [Shanghai Astronomical Observatory, Chinese Academy of Sciences](http://english.shao.cas.cn/) (SHAO).
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+My interests are in the field of exoplanets, especially in the detection and characterization of exoplanets using transit method.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I'm currently working on high proformance computing (HPC) on exoplanet transit modeling and detection under the supervision of [Dr. Jian Ge](https://scholar.google.com/citations?user=xrAGwa0AAAAJ).
+
+If you are interested in my research or project, please feel free to contact me via email: huquanquan@shao.ac.cn.
+
+And if you are interested in my life, check my [Personal Blog](https://farthing.xyz) (Mostly in Chinese).
+
+## Education
+
+2022.09-Now M.S. Shanghai Astronomical Observatory, Chinese Academy of Sciences, Shanghai, China 
+
+2017.09-2022.06 B.S. Jilin University, Changchun, China 
 
 
-[jekyll-organization]: https://github.com/jekyll
+## Research Experience
+
+2023.08 Poster Presentation, at the 20th Annual Meeting of the Asia Oceania Geosciences Society (AOGS2023), Singapore.
+
+Title: "GTLS: A GPU Algorithm for Speeding up Periodic Transit Detection".
+Download the poster [here]({{ site.url }}/download/GTLSPoster.pdf). Formally paper is in preparation.
