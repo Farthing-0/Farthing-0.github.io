@@ -12,14 +12,13 @@ I'm currently working on high proformance computing (HPC) on exoplanet transit m
 
 If you are interested in my research or project, please feel free to contact me via email: huquanquan@shao.ac.cn.
 
-And if you are interested in my life, check my [Personal Blog](https://farthing.xyz) (Mostly in Chinese).
+<!-- And if you are interested in my life, check my [Personal Blog](https://farthing.xyz) (Mostly in Chinese). -->
 
 ## Education
 
 2022.09-Now M.S. Shanghai Astronomical Observatory, Chinese Academy of Sciences, Shanghai, China 
 
 2017.09-2022.06 B.S. Jilin University, Changchun, China 
-
 
 ## Research Experience
 
