@@ -26,3 +26,9 @@ If you are interested in my research or project, please feel free to contact me 
 
 Title: "GTLS: A GPU Algorithm for Speeding up Periodic Transit Detection".
 Download the revised poster [here]({{ site.url }}/download/GTLSPosterRevised.pdf). The paper is in preparation.
+
+## Languages
+Chinese (Native), English (Fluent)
+
+## Programming Languages
+Python, C, CUDA, Rust, LaTeX, Markdown
