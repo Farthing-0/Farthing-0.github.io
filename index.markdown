@@ -22,10 +22,15 @@ If you are interested in my research or project, please feel free to contact me 
 
 ## Research Experience
 
-2023.08 Poster Presentation, at the 20th Annual Meeting of the Asia Oceania Geosciences Society (AOGS2023), Singapore.
+Augest 2023: Poster Presentation, at the 20th Annual Meeting of the Asia Oceania Geosciences Society (AOGS2023), Singapore.
 
 Title: "GTLS: A GPU Algorithm for Speeding up Periodic Transit Detection".
 Download the revised poster [here]({{ site.url }}/download/GTLSPosterRevised.pdf). The paper is in preparation.
+
+June 2024: Poster Presentation, at the 244th Meeting of the American Astronomical Society (AAS244), Madison, WI, USA.
+
+Title: "Glance, a GPU single transit detection method".
+View the online iPoster [here]({{ site.url }}/download/QuanquanHuiPoster.html).
 
 ## Languages
 Chinese (Native), English (Fluent)
