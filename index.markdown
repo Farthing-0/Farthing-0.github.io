@@ -30,7 +30,6 @@ Download the revised poster [here]({{ site.url }}/download/GTLSPosterRevised.pdf
 June 2024: Poster Presentation, at the 244th Meeting of the American Astronomical Society (AAS244), Madison, WI, USA.
 
 Title: "Glance, a GPU single transit detection method".
-View the online iPoster (coming soon).
 View the online iPoster [here](https://aas244-aas.ipostersessions.com/default.aspx?s=E2-37-94-82-A8-67-83-F8-FD-8A-B0-D0-52-6D-F0-E1&guestview=true).
 
 ## Languages
